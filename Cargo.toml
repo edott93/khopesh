@@ -1,0 +1,6 @@
+[package]
+name = "khopesh"
+version = "0.1.0"
+authors = ["Evan <edott93@github.com>"]
+
+[dependencies]
